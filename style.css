@@ -8,14 +8,14 @@
     color: #6b8bcd;
     background-color: #000000;
     margin: 10px 0;
-    align-items: center;
+    text-align: center;
 }
 .sumtext  {
     font-size: 16px;
     font-weight: bold;
     color: #896f6f;
     margin: 10px 0;
-    align-items: center;
+    text-align: center;
     border: 2px solid #896f6f;
 }
 
@@ -24,7 +24,7 @@
     color: #000000;
     margin: 67px 0;
     padding: 10px;
-    align-items: center;
+    text-align: center;
     border: 2px dotted #000000;
     
 }
@@ -34,11 +34,11 @@
     color: #4f4f4f;
     margin: 5px 0;
     background-color: rgb(125, 123, 205);
-    align-items: center;
+    text-align: center;
 }
 
 .imageofdoom {
     border: 2px solid #000000;
     margin: 10px 0;
-    align-items: center;
+    text-align: center;
 }
